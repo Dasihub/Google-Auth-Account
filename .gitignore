@@ -1,0 +1,6 @@
+/google-frontend/node_modules
+/google-frontend/build
+
+/google-server/node_modules
+
+/.idea

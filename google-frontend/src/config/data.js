@@ -1,0 +1,1 @@
+export const keyGoogleAccount = '927037858997-m15gdrr7pg4aonbjl8jqrqj4de6ucoot.apps.googleusercontent.com'
